@@ -43,5 +43,5 @@ python3 AIProject.py
 
 ## Author
 
-Dustin Jasmin 
+Dustin Jasmin  
 Email: jasmindustin@gmail.com
