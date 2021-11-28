@@ -4,7 +4,7 @@
 
 ## Description
 
-    I Implemented the A* search algorithm to develop an AI that solves the 11-puzzle problem.
+I Implemented the A* search algorithm to develop an AI that solves the 11-puzzle problem.
 For overview, the 11 puzzle problem is one where there is a 3x4 puzzle board with twelve tiles. 
 There are eleven tiles filled with numbers from 1-11 and one tile with the number 0 (this tile 
 represents the space). The goal is to rearrange the puzzle state given (start state) into the 
@@ -44,4 +44,4 @@ python3 AIProject.py
 ## Author
 
 Dustin Jasmin 
-[Email Address](jasmindustin@gmail.com)
+Email: jasmindustin@gmail.com
