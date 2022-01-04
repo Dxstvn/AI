@@ -4,7 +4,7 @@ Map-Coloring Problem: AI solution
 
 ## Description
 
-### Definiion
+### Definition
 
 The Map-Coloring Problem is a practical Constraint-Satisfaction Problem (CSP). The problem
 represents a map of Australia with several regions. Each region has a domain of three colors
