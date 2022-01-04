@@ -58,5 +58,5 @@ python3 AIfinalproject.py
 
 ## Author
 
-Dustin Jasmin 
-[Email Address](jasmindustin@gmail.com)
+* Dustin Jasmin 
+* [mailto](mailto:jasmindustin@gmail.com)
